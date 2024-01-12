@@ -3,7 +3,7 @@
   "manifest_version": 3,
   "version": "0.1.0",
   "name": "HubSpot Content Security Policy Unblocker",
-  "description": "Seamlessly unlock HubSpot's full potential with the HubSpot CSP Unblocker Extension for Chrome. Bypass Content Security Policy restrictions effortlessly and enjoy unrestricted access to HubSpot features. Tested for compatibility with Twilio Flex, this extension ensures a smooth integration for users leveraging both platforms. Upgrade your browsing experience with the HubSpot CSP Unblocker Extension.",
+  "description": "Embed HubSpot effortlessly within iframes without Content-Security-Policy constraints using our Chrome Extension.",
   "default_locale": "en",
   "permissions": [
     "storage",
